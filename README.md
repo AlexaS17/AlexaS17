@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A Marine Biologist on a mission to bridge data and conservation</h3>
 
-- 🔭 I’m currently working on [Machine Learning for Marine Protected Areas](https://github.com/AlexaS17/ML_for_MPAs)
+- 🔭 I’m currently working on GIS development for conservation
 
-- 🌱 I’m currently learning **Geopandas, Shapely, Time Series**
+- 🌱 I’m currently learning **Geopandas, Movingpandas, Shapely, Time Series, LSTM**
 
-- 👯 I’m looking to collaborate on **Machine Learning/Artificial Intelligence solutions for marine conservation, especially for climate change impact**
+- 👯 I’m looking to collaborate on **Machine Learning/Artificial Intelligence solutions for marine conservation, especially for climate change**
 
-- 🤝 I’m looking for help with **geodata processing and analysis, Time Series**
+- 🤝 I’m looking for help with **geodata processing and analysis, Time Series, handling large datasets**
 
-- 💬 Ask me about **Marine Conservation**
+- 💬 Ask me about **Marine Conservation and Climate Change**
 
 - 📫 How to reach me **sellini.alessandra@gmail.com**
 
